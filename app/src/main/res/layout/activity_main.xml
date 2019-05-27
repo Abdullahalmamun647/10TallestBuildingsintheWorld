@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bacground_tallest"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="#E91E63"
+        android:text="Overview"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:textColor="#FFEB3B"
+        android:text="@string/overview"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        />
+
+
+    <Button
+        android:onClick="top"
+        android:layout_width="wrap_content"
+        android:background="@drawable/round2"
+        android:layout_gravity="center"
+        android:textColor="#F3EAEA"
+        android:layout_marginTop="150dp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:text="Most Fantastical Pieces Of Armor"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+
+

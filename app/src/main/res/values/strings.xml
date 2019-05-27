@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">10 Tallest Buildings in the World</string>
+    <string name="overview">
+        The tallest building in the world, the Burj Khalifa, has held onto its title since 2010. Other entires on the list of the world tallest buildings include the Shanghai Tower, the Abraj Al-Bait, and the Ping An International Finance Centre.
+Whether it be due to innovation or land scarcity, the expansion of towns and cities has increased at a very vertical rate in recent years. In fact, there seems to be a great deal of competition between cities to see who can build the world most impressive supertalls. Having the world tallest building can bring tourism revenue and glory to its host city, although it is not a title that many cities hold on to for very long. When it comes to skyscrapers, world trends are changing. North America used to have 75 percent of the tallest buildings 20 years ago, but this has shifted to Asia and the Middle East today. Thanks to the marvel of modern engineering that is ever-changing with the times, buildings keep growing higher, higher, and higher.
+    </string>
+    <string name="bt1">
+The Shanghai World Financial Center was completed in 2008, and has a height of 1,614 feet with 101 floors. It is located in Shanghai skyscraper-laden Pudong district and acts as an international finance and trade center. It is home to hotel rooms, offices, conferences, observation decks and shopping malls. Its tower has a trapezoid aperture towards the peak and has an air controlling feature called Variable Air Volume (VAV), and it is designed with a diagonal frame to mitigate bending and compressive forces from people inside the building, the wind, and heavy equipment on the ground alike. The design of the skyscraper has been very positively received by critics.
+    </string>
+    <string name="bt2">
+Like its name would suggest, Tapei 101 has a total of 101 stories. At 1,667 feet tall, it is among the world tallest buildings. Taipei 101 made great waves when it was constructed in 2004, as its design was quite revolutionary at the time. It held the title of the world tallest building for six years before being surpassed by the Burj Khalifa in Dubai. An example of postmodern architecture, Taipei 101 is well known for its unique green-blue hue. It dominates the skyline of Taipei and is a major tourist attraction, mainly thanks to its observatory at the top.
+    </string>
+    <string name="bt3">
+China Zun, in Beijing, is set to be completed in 2018. When it is completed, it will become the world eighth tallest building with a total height of 1,667 feet. The building is intended to act as the hub of the Central Business District of Beijing. The building is being developed by the CITIC Group.
+    </string>
+    <string name="bt4">
+
+The CTF Finance Centre in Tianjin holds the title of the world seventh tallest building, in a tie with the CTF Finance Centre in Guangzhou. The towers are both 1,739 feet tall. This CTF tower, which stands for Chow Tai Fook, is set to be officially completed sometime in 2018. Its construction began in 2013. The building hosts a total of 97 floors which are dedicated to mixed-use.
+
+    </string>
+    <string name="bt5">
+Located in the city of Guangzhou in southern China, the CTF Finance Centre is a mixed-use skyscraper whose construction was completed in October of 2016. It is 530 meters tall and is home to a shopping mall, offices, and a hotel. Guangzhou CTF Finance Centre is notably home to one of the fastest elevators in the world, which reaches speeds of 71 km (44.7 miles) per hour.
+    </string>
+    <string name="bt6">
+Standing at 1,776 feet and 104 stories, One World Trade Center is the tallest building not only in New York City, but also in the United States, and the entire Western Hemisphere. Its construction was completed in 2014. Its namesake comes from the North Tower of the original World Trade Center. One World Trade Center was built as a functional building in commemoration of the 9/11 terrorist attacks. The building has been praised for its use of renewable energy, which includes the reuse of rainwater.
+    </string>
+    <string name="bt7">
+The Lotte World Tower is found in Seoul, South Korea. At 1,819 feet, it is the fifth tallest building in the world. Construction on the building was completed in March of 2016. A total of thirteen years of planning went into the preparation the Lotte World Tower construction, which began in March 2011. The building features 123 floors, six of which are underground. The roof of the Lotte World Tower was constructed with such a strength that it is designed to withstand earthquakes with a magnitude of up to 9 on the Richter scale.
+    </string>
+    <string name="bt8">
+e Ping An International Finance Centre, in Shenzhen, China, is 1,965 feet tall. It is the fourth tallest building in the world. Construction of the building topped out in 2015 before being finally completed in 2017. The Ping An International Finance Centre features a conference center, hotel, and a number of high-end retail spaces. It is also the home of its namesake, Ping An Insurance. The building uses an impressive total of 33 double decker elevators to access its 115 floors. Originally, the building designs called for the inclusion of an antenna. However, this plan was eventually called off due to concerns of flight interference.
+    </string>
+    <string name="bt9">
+         The Shanghai Tower is the world second tallest building as well as the tallest building in China, with 121 floors and a height of 2,073 feet. The construction of Shanghai Tower began in 2006 and took a total of eight years. This building was designed by Gensler, an American architectural company. Its initial purpose was to serve as a hotel and office building. Today, the Shanghai Tower has a total of 320 hotel rooms and 1,100 parking spaces. The view from the top of the building offers a stunning view of the area of Shanghai known as Pudong, which has seen a great amount of development over recent times.
+    </string>
+    <string name="bt10">
+At 2,717 ft, Dubai Burj Khalifa is the tallest building in the world. Primarily constructed from steel and concrete, the building was designed by the same architects who were responsible for other famous super-talls like the Willis Tower in Chicago and One World Trade Center in New York City. The construction of the building, which was completed in 2010, was part of an initiative by the government of the United Arab Emirates to shift the country’s economy from one that is solely oil-based to a more tourism and service based nation. The Burj Khalifa has 30,000 residences spread out over 19 residential towers, an artificial lake, nine hotels, and a shopping mall.
+    </string>
+
+</resources>

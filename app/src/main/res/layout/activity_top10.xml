@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#f5e4eb"
+    android:layout_height="match_parent"
+    tools:context=".top10">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:onClick="bt1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="1. Shanghai World Financial Center"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt2"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="2.Tapei 101, Taiwan - 1,667 feet "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="3.China Zun, China "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt4"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="4.Tianjin CTF Finance Centre"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt5"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="5.Guangzhou CTF Finance Centre"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt6"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="6.One World Trade Center
+         "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt7"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="7.Lotte World Tower"
+                android:background="@drawable/round2"
+                />
+            <Button
+                android:onClick="bt8"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="8.Ping An International Finance Centre"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt9"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="9. Shanghai Tower, China - 2,073 Feet"
+                android:background="@drawable/round2"
+                />
+            <Button
+                android:onClick="bt10"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:text="10.Burj Khalifa, United Arab Emirates - 2,717 Feet  "
+                android:background="@drawable/round2"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
